@@ -1,0 +1,25 @@
+Onsite
+1. implement a hash table.
+2. Given a word and a list of valid English words, return a list of all valid words that can be made by permuting the characters in the given word
+
+Phone
+All technical questions on trees, heap
+
+Phone
+Given a file containing all integers except 4, find out which 4 are missing
+- How much memory does your algorithm use
+- Explain how to implement a hash map
+
+Phone
+1. big O of binary trees and heaps.
+2. finding the common ancestor in a tree
+
+Onsite
+1. do a mergesort given two linked lists
+2. What structure would you use if you wanted to keep track of the median and needed to insert?
+
+Phone
+what are the primitive data types and what are their sizes
+
+Phone
+Explain the idea of hash maps and hashing. 
